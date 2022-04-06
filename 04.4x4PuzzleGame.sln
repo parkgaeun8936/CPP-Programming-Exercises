@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.4x4PuzzleGame", "04.4x4PuzzleGame.vcxproj", "{C4580B99-A388-4C31-9D06-7337534092AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4580B99-A388-4C31-9D06-7337534092AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{C4580B99-A388-4C31-9D06-7337534092AA}.Debug|x86.Build.0 = Debug|Win32
+		{C4580B99-A388-4C31-9D06-7337534092AA}.Release|x86.ActiveCfg = Release|Win32
+		{C4580B99-A388-4C31-9D06-7337534092AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF1D852E-070A-43C1-9F0C-47ED0AFD0D06}
+	EndGlobalSection
+EndGlobal
